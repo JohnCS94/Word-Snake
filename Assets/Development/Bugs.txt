@@ -1,0 +1,5 @@
+Major
+
+
+Minor
+-Fix pause menu Music and Sound toggle sprites

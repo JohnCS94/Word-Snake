@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SoundEffects
+  - AchImg
+  - Background
+  - WordSplay
+  - music
+  - mustUnlock
+  - anims
+  - FoodTile
+  - spriteLoader
+  - TailSplay
+  - ads
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1303005689
+    locked: 0
+  - name: HUD
+    uniqueID: 1949420733
+    locked: 0
+  - name: Letters
+    uniqueID: 311762155
+    locked: 0
+  - name: Snake
+    uniqueID: 2149872135
+    locked: 0
+  - name: Pause Overlay
+    uniqueID: 1246835699
+    locked: 0

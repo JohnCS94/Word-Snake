@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Preloader.unity
+    guid: c08a4fcd91052b548b45bf32e51808cf
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: a8ebb6d342c02974a8c53ccee249a5b5
+  - enabled: 1
+    path: Assets/Scenes/Achievements.unity
+    guid: bd02ab04d7f9ce045b96a67f6bcce353
+  - enabled: 1
+    path: Assets/Scenes/ClassicSnake.unity
+    guid: af8798b704da5f644bad1a90bed5bbeb
+  - enabled: 1
+    path: Assets/Scenes/Customize.unity
+    guid: 22ad3f5fe0c80644c9a0a0775bad016b
+  - enabled: 1
+    path: Assets/Scenes/HighScores.unity
+    guid: fba056b5a5dc7c34ba720579667cb474
+  - enabled: 1
+    path: Assets/Scenes/HowToPlay.unity
+    guid: 98073e90cfc92924c9f6951421d8d430
+  - enabled: 1
+    path: Assets/Scenes/WordSnake.unity
+    guid: 80dab7434340ab6448bbe855468e79e7
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: 917b3a426bd33064ba8b2a7f90814cad
+  - enabled: 1
+    path: Assets/Scenes/SelectMode.unity
+    guid: 6ee40268a7116c441adf411096f888c7
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 000cd00d5edcc8e47875a19782858130
+  m_configObjects: {}
